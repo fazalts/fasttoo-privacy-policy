@@ -56,6 +56,7 @@ Send requests to baooukltd@gmail.com. We may need to verify your identity. You c
 Trial eligibility is checked automatically against the application account and connected eBay identity. Contact us if you believe a decision is incorrect.
 Optional Google Analytics and advertising measurement
 With your consent, we use Google Analytics 4 to understand how visitors use Variation Editor and measure selected actions, such as completed registrations and eBay account connections. Measurement may include device and browser information, general location derived from IP address, page categories and interaction events. Google may use cookies and similar technologies for these purposes.
+With your analytics and advertising consent, we measure confirmed Stripe credit purchases using the amount paid, GBP currency and a unique transaction reference. We do not send your email address or payment-card details in these conversion events.
 
 If you separately consent to advertising measurement, we also use the Google Ads tag to help measure advertising effectiveness. Our current implementation does not enable personalised advertising or enhanced conversions. Purchase-conversion tracking is not currently configured.
 
